@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Telecommunications%20Engineer;Data%20Analyst;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;&center=true&width=440&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Telecommunications%20Engineer;Data%20Scientist;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
