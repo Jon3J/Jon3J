@@ -86,7 +86,7 @@
 
  <div align=center>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon3J&layout=pie)](https://github.com/Jon3J/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon3J&layout=compact)
   
  </div>
  
