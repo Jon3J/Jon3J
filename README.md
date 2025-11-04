@@ -17,8 +17,8 @@
 
 ---
 
-- 👨‍💻 As a Telecommunications Engineer and Data Analyst, I continuously seek to expand my expertise by exploring emerging technologies and data-driven solutions.
-- 💬 Passionate about technology. Ask me about my journey through Telecommunications Engineering, Data Scientist, and Mobile App Development.
+- 👨‍💻 As a Telecommunications Engineer and Data Scientist, I continuously seek to expand my expertise by exploring emerging technologies and data-driven solutions.
+- 💬 Passionate about technology. Ask me about my journey through Telecommunications Engineering, Data Science, and Mobile App Development.
 - 🌱 I’m diving deeper into Machine Learning and AI.
 
 ## 🛠 &nbsp;Tech Stack
